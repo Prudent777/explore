@@ -1,4 +1,4 @@
-# GitHub Explore nsnsnsns
+# GitHub Explore nsnsnsn
 
 This repository houses all of the community-curated content for GitHub Topics and Collections.
 
